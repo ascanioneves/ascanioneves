@@ -7,5 +7,5 @@ Here are some things about me:
 - :snake: I’m currently learning Python and Optimization.
 - :video_game: I like to play video games when I've free time.
 
-[![Ascanio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ascanioneves)](https://github.com/ascanioneves/github-readme-stats)
+![Ascanio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ascanioneves&show_icons=true&theme=radical)
 
