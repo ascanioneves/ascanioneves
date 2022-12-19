@@ -11,4 +11,7 @@ Here are some things about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascanioneves&theme=radical)](https://github.com/ascanioneves/github-readme-stats)
 
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
