@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-Here are some things about me:
+## About me:
 
 - :computer: I’m currently working on EDGE (http://edgebr.org/) as a Computer Vision Researcher
 - :snake: At the moment learning Machine Learning and Computer Vision (Pytorch, TensorFlow, OpenCV).
