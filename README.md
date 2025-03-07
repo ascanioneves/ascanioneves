@@ -4,7 +4,7 @@
 ## :robot: About me:
 
 - :computer: At the moment learning Machine Learning and Computer Vision (Pytorch, TensorFlow, OpenCV);
-- :snake: I've been studying Django (backend) and mastering Python;
+- :snake: I've been studying Generative AI (LLMs) and mastering Python;
 - :video_game: I like to play video games and watch series when I've free time.
   
   
